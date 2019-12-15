@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">备忘录</string>
+    <string name="title_activity_search">搜索结果</string>
+</resources>
